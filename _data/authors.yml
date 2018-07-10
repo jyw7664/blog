@@ -8,7 +8,8 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    데이터분석과 시각화를 공부하고 있는 대학생. 귀염뽀짝한 모든 것들을 좋아한다. 고양이 편애 주의 (ฅ'ω'ฅ) 
+    데이터분석과 시각화를 공부하고 있는 대학생. 귀염뽀짝한 모든 것들을 좋아한다. 
+    고양이 편애 주의 (ฅ'ω'ฅ) 
 
   # This photo will be used in the about section
   picture:
