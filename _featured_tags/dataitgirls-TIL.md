@@ -2,7 +2,7 @@
 layout: tag-blog
 title: TIL
 slug: til
-category: DataitGirls
+category: dataitgirls
 menu: false
 order: 1
 ---
