@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 1
 description: >
-  배움을 기록하는 
+  배움을 기록하는 공간
 ---
